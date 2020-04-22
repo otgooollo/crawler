@@ -1,0 +1,14 @@
+cmd command
+$pip install scrapy = scrapy suulgah
+$mkdir brickset-scraper = brickset-scraper folder uusgeh ug foldert projectiin buh zuils hadgalagdn
+$scraper.py ug foldert file uusgeh
+$scrapy runspider scraper.py commandaar ajillulna
+
+ur dun: [scrapy] DEBUG: Scraped from <200 http://brickset.com/sets/year-2016>
+	{'name': 'Brick Bank'}
+	[scrapy] DEBUG: Scraped from <200 http://brickset.com/sets/year-2016>
+	{'name': 'Volkswagen Beetle'}
+	[scrapy] DEBUG: Scraped from <200 http://brickset.com/sets/year-2016>
+	{'name': 'Big Ben'}
+	[scrapy] DEBUG: Scraped from <200 http://brickset.com/sets/year-2016>
+	{'name': 'Winter Holiday Train'}
