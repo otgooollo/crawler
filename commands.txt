@@ -1,0 +1,12 @@
+cmd command
+$pip install scrapy = scrapy суулгах
+$scrapy runspider scraper.py коммандаар scraper.py-ийг ажиллуулна.
+
+?р д?н: [scrapy] DEBUG: Scraped from <200 http://brickset.com/sets/year-2016>
+	{'name': 'Brick Bank'}
+	[scrapy] DEBUG: Scraped from <200 http://brickset.com/sets/year-2016>
+	{'name': 'Volkswagen Beetle'}
+	[scrapy] DEBUG: Scraped from <200 http://brickset.com/sets/year-2016>
+	{'name': 'Big Ben'}
+	[scrapy] DEBUG: Scraped from <200 http://brickset.com/sets/year-2016>
+	{'name': 'Winter Holiday Train'}
